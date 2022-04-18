@@ -1,0 +1,1 @@
+# near-splash-contract-hello
